@@ -3525,3 +3525,17 @@ input, select, textarea {
   -webkit-box-shadow: 2px 2px 2px 2px rgb(8, 8, 8);
   box-shadow:         1px 1px 3px 3px rgb(14, 13, 13);
 }
+
+.email-form{
+	margin: 0 auto;
+	max-width: calc(100% -4em);
+	width: 60em;
+	padding: 6em 0 4em 0;
+}
+
+.email-header{
+	font-size: 2em;
+	line-height: 1.35em;
+	color: #555;
+	text-align: center;
+}
