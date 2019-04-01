@@ -3526,6 +3526,10 @@ input, select, textarea {
   box-shadow:         1px 1px 3px 3px rgb(14, 13, 13);
 }
 
+.photo-fit{
+	cursor: pointer;
+}
+
 .email-form{
 	margin: 0 auto;
 	max-width: calc(100% -4em);
