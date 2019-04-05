@@ -2780,7 +2780,8 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #555;
+			/* background-color: #555; */
+			background-color: #4686a0;
 			box-shadow: none !important;
 			color: #fff !important;
 		}
@@ -2790,7 +2791,8 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #626262;
+				/* background-color: #626262; */
+				background-color: #eca50c;
 			}
 
 			input[type="submit"].primary:active,
@@ -3542,4 +3544,10 @@ input, select, textarea {
 	line-height: 1.35em;
 	color: #555;
 	text-align: center;
+}
+
+.call-me{
+	font-size: 32px;
+	text-align: center;
+
 }
