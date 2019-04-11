@@ -3064,10 +3064,10 @@ input, select, textarea {
 				-webkit-transition: -webkit-transform 1.25s ease;
 				-ms-transition: -ms-transform 1.25s ease;
 				transition: transform 1.25s ease;
-				-moz-transition-delay: 1s;
+				/* -moz-transition-delay: 1s;
 				-webkit-transition-delay: 1s;
 				-ms-transition-delay: 1s;
-				transition-delay: 1s;
+				transition-delay: 1s; */
 				-moz-transform: translateY(0);
 				-webkit-transform: translateY(0);
 				-ms-transform: translateY(0);
